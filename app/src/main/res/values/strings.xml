@@ -1,0 +1,63 @@
+<resources>
+    <!--Titles-->
+    <string name="app_name">Musical Structure</string>
+    <string name="home">Home Screen</string>
+    <string name="search">Search Screen</string>
+    <string name="favorite">Favorite Screen</string>
+    <string name="profile">Profile Screen</string>
+    <string name="song">Song Screen</string>
+
+    <!--Text-->
+    <string name="plan">Plan for creation:</string>
+    <string name="playlist">Sample Playlist:</string>
+
+    <!--Example song 1-->
+    <string name="artist_name_1">twentyonepilots</string>
+    <string name="song_name_1">Heathens</string>
+    <string name="popularity_song_1">800k</string>
+
+    <!--Example song 2-->
+    <string name="artist_name_2">Jeffry Lee</string>
+    <string name="song_name_2">Chainsmoker Closer</string>
+    <string name="popularity_song_2">3.5m</string>
+
+    <!--Buttons-->
+    <string name="button_home">Home Button</string>
+    <string name="button_search">Search Button</string>
+    <string name="button_favorite">Favorite Button</string>
+    <string name="button_previous">Previous Button</string>
+    <string name="button_play">Play Button</string>
+    <string name="button_next">Next Button</string>
+    <string name="button_profile">Profile Button</string>
+    <string name="button_arrow_home">Arrow Home Button</string>
+    <string name="button_like">Add to Favorite Button</string>
+    <string name="button_unlike">Not Interested Button</string>
+
+    <!--Images-->
+    <string name="image_song_1">Song 1 Image</string>
+    <string name="image_song_2">Song 2 Image</string>
+    <string name="divider">Divider</string>
+
+    <!--Plan for Creation-->
+    <string
+        name="plan_home">Last Song Listened (Need library that keeps track of listening history) +
+        What your friends are listening (Sort) + What\'s trending (Pull data from internet)</string>
+
+    <string name="plan_search">Search (Music Library + Search Algorithm + Pull data from
+        internet) + Recommender System (Machine Learning)</string>
+
+    <string name="plan_song">Progress Bar + Volume Control + other common player functionality such as replay, repeat, shuffle + the
+        like and unlike button will add or remove song to the favorite table in the
+        database</string>
+
+    <string name="plan_favorite">Pull data from the database + sort functionality (by album, artist, genre)</string>
+
+    <string name="plan_profile">Setting (theme, default player, UI font size and etc.) + Profile
+        (username, password, avatar and etc.) + subscription(check user type, upgrade, explicit
+        intent to payment page in the web-browser and etc.)</string>
+    <string name="song_icon">song icon</string>
+    <string name="most_recently_played">Most recently played</string>
+    <string name="sample_song_name">Heathens</string>
+    <string name="sample_song_artist">Twenty One Pilots</string>
+
+</resources>
